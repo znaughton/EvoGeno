@@ -1,0 +1,9 @@
+---
+title: "Repository Demo"
+author: "Zack Naughton"
+date: "2024-02-22"
+output: html_document
+---
+
+## My Github Repository Page
+Here's my Github. Quite barren as of now, evidently.

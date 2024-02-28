@@ -2,8 +2,13 @@
 title: "Repository Demo"
 author: "Zack Naughton"
 date: "2024-02-22"
-output: html_document
+output:
+  html_document:
+    theme: darkly
+    highlight: breezedark
 ---
 
 ## My Github Repository Page
 Here's my Github. Quite barren as of now, evidently.
+
+![Figure 1.](wisconsin-wildflower.jpg)
